@@ -6,23 +6,20 @@
   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ruben.fonnegra@pascuabravo.edu.co "Connect via Email")
   [![Google Scholar](https://img.shields.io/badge/Scholar-%230070D1.svg?style=flat&logo=Google-scholar&logoColor=white)](https://scholar.google.com.tr/citations?user=g2Y2WBMAAAAJ&hl)
   [![Twitter Badge](https://img.shields.io/badge/-@RubenFonnegra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/RubenFonnegra "Follow on Twitter")
+  [![Website](https://img.shields.io/badge/website-%23121011.svg?style=flat&logo=About.me&logoColor=white)](https://rubenfonnegra.github.io/)
+
   
-  I am a 3rd-year Graduate Student at [Instituto Tecnológico Metropolitano](https://www.itm.edu.co/), and full time researcher at [Institución Universitaria Pascual Bravo](https://www.pascualbravo.edu.co)
+  I am a 3rd-year Graduate Student at [Instituto Tecnológico Metropolitano](https://www.itm.edu.co/), and full time researcher at [Institución Universitaria Pascual Bravo](https://www.pascualbravo.edu.co) 
+  
 
 
-<summary> Check out my bot for publishing scientific papers on Twitter 👀
+<summary> Check out my bot for publishing scientific papers on Twitter 👀 </summary>
 
   [![Twitter Badge](https://img.shields.io/badge/-@ArxivDocs-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ArxivDocs "Follow on Twitter")
 
 
-<summary> 💻 Github Public Stats </summary>
-  
-  
-  ![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenfonnegra&show_icons=true&theme=transparent)
-  
-  ----
 
-<summary> ⚡ Technologies and Skills  </summary>
+### ⚡ Technologies and Skills 
 
   ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
