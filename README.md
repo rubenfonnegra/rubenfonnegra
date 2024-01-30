@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi there 👋, <a href="https://github.com/rubenfonnegra">Ruben Fonnegra</a> here 👋🏼👨🏻‍💻 </h2>
+<h2 align="center">Hi there 👋🏼, <a href="https://github.com/rubenfonnegra">Ruben Fonnegra</a> here 👨🏻‍💻 </h2>
 <h3 align="center">Machine Learning Scientist from Colombia</h3>
 
 
